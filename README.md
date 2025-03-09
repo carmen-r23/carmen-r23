@@ -1,8 +1,6 @@
-# 🧚🏻 Holi, soy Carmen
+## 🐈‍⬛ Hello there
 
-## 🔒 Security Analyst | IAM Specialist | Automation Enthusiast
-
----
+> Security Analyst | IAM Specialist | Automation Enthusiast
 
 ### 🔭 Actualmente trabajo en:
 - Soluciones IAM con enfoque en privilegio mínimo
