@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🧚🏻 Holi, soy Carmen
 
-<!--
-**carmen-r23/carmen-r23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔒 Security Analyst | IAM Specialist | Automation Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Actualmente trabajo en:
+- Soluciones IAM con enfoque en privilegio mínimo
+- Cumplimiento ISO 27001 y evaluaciones OWASP SAMM
+- Automatización con Python, GitHub Actions y bash
+
+### 🌱 Estoy aprendiendo:
+- DevSecOps
+- Pentest
+- Redes
+
+### 💬 Pregúntame sobre:
+- IAM/RBAC
+- Automatización de seguridad
+- ISO 27001 y OWASP SAMM
+- Seguridad en CI/CD
+
+### 🛠️ Tecnologías:
+- Python, SQL, bash
+- AWS, Cloudflare, Datadog
+- GitHub Actions
+- Power BI
+
+### 💖 Dato curioso:
+- Sometimes I code and break things or watch series.
