@@ -24,6 +24,10 @@
 - [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#) [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#)
 - [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
+### 📚 Certifications
+- AWS Cloud Practitioner [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/HZW3XM92VNB4QE3T)
+- CompTIA Security+ [![CompTIA](https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/f8d7dedf-86c2-4f01-8c25-8d1871cfbc34/)
+
 ### Contact me
 - [![Email Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:carmen-contact@pm.me)
 
