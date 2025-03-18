@@ -25,8 +25,8 @@
 - [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
 ### 📚 Certifications
-- AWS Cloud Practitioner [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/HZW3XM92VNB4QE3T)
-- CompTIA Security+ [![CompTIA](https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/f8d7dedf-86c2-4f01-8c25-8d1871cfbc34/)
+- AWS Cloud Practitioner [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+- CompTIA Security+ [![CompTIA](https://img.shields.io/badge/CompTIA-C8202F.svg?style=for-the-badge&logo=CompTIA&logoColor=white)](#)
 
 ### Contact me
 - [![Email Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:carmen-contact@pm.me)
